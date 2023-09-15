@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Accumulate function
+---
+title: t_A
 TOCTitle: MPI_Accumulate function
 ms:assetid: 3f580b28-6b45-4294-9351-cf5c6b06807e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn502495(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: d_A
 ---
 
 # MPI\_Accumulate function
