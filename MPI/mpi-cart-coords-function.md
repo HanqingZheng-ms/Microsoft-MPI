@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Cart_coords function
+---
+title: t_C
 TOCTitle: MPI_Cart_coords function
 ms:assetid: aafb5414-564a-45c6-ad3c-4a83518419c7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473245(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: d_C
 ---
 
 # MPI\_Cart\_coords function
