@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Add_error_class function
+---
+title: t_B
 TOCTitle: MPI_Add_error_class function
 ms:assetid: dcef3d57-8b0f-4cc9-b2d0-04f8f9491304
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn502497(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: d_B
 ---
 
 # MPI\_Add\_error\_class function
