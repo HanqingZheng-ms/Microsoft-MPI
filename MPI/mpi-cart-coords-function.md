@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Cart_coords function
+---
+title: 'MPI_Cart_coords Function: Process Coords in Cartesian Topology'
 TOCTitle: MPI_Cart_coords function
 ms:assetid: aafb5414-564a-45c6-ad3c-4a83518419c7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473245(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Cart_coords function that determines process coordinates in cartesian topology. Understand syntax, parameters, return value, and requirements.
 ---
 
 # MPI\_Cart\_coords function

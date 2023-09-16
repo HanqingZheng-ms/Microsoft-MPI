@@ -1,5 +1,5 @@
 ---
-title: MPI_Comm_get_attr function
+title: 'MPI_Comm_get_attr Function: Key Attribute Retrieval Guide'
 TOCTitle: MPI_Comm_get_attr function
 ms:assetid: 7fa4c249-273c-40a3-9dfb-2dd754adb259
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473271(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Comm_get_attr function, its syntax, parameters, return values, and requirements. Understand how to retrieve attribute values by key in MPI.
 ---
 
 # MPI\_Comm\_get\_attr function

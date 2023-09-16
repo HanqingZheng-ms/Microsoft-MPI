@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Accumulate function
+---
+title: 'MPI_Accumulate Function: Remote Memory Access Data Accumulation'
 TOCTitle: MPI_Accumulate function
 ms:assetid: 3f580b28-6b45-4294-9351-cf5c6b06807e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn502495(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Accumulate function, its syntax, parameters, and return value. This function helps in accumulating data into the target process using remote memory access.
 ---
 
 # MPI\_Accumulate function

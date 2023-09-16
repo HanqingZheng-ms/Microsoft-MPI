@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Comm_connect function
+---
+title: 'MPI_Comm_connect Function: Forming New Intercommunicator'
 TOCTitle: MPI_Comm_connect function
 ms:assetid: 17d7fb2f-18cf-4154-bc73-7005c8bce57a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473259(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Comm_connect function, its syntax, parameters, and return value. Understand how to form a new intercommunicator in HPC Pack 2012 MS-MPI Redistributable Package.
 ---
 
 # MPI\_Comm\_connect function

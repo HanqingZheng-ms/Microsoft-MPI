@@ -1,5 +1,5 @@
 ---
-title: MPI_Alltoallw function
+title: Understanding MPI_Alltoallw Function in Data Exchange
 TOCTitle: MPI_Alltoallw function
 ms:assetid: 6cb4cd3b-f69e-448b-bb46-b0f1fa794b09
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473232(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Detailed guide on MPI_Alltoallw function, a general form of complete data exchange. Learn about its syntax, parameters, return value, and usage in data exchange.
 ---
 
 # MPI\_Alltoallw function

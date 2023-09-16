@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Comm_accept function
+---
+title: 'MPI_Comm_accept Function: Forming New Intercommunicator'
 TOCTitle: MPI_Comm_accept function
 ms:assetid: 12ede4b0-e249-4e21-a469-b72bef0f3c55
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473256(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Comm_accept function, its syntax, parameters, and return value. Understand how it helps in forming a new intercommunicator in MPI process management functions.
 ---
 
 # MPI\_Comm\_accept function
