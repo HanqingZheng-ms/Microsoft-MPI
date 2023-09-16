@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Type_indexed function
+---
+title: Understanding MPI_Type_indexed Function and Its Parameters
 TOCTitle: MPI_Type_indexed function
 ms:assetid: ceea8b95-a9aa-44b6-a37f-71fb313a92f1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn520576(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Learn about the MPI_Type_indexed function, its syntax, parameters, and return value. This article also covers the requirements and related MPI datatype functions.
 ---
 
 # MPI\_Type\_indexed function

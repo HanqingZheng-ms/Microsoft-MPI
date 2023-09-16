@@ -1,5 +1,5 @@
 ---
-title: MPI_Win_shared_query function
+title: MPI_Win_shared_query Function and Memory Segments
 TOCTitle: MPI_Win_shared_query function
 mtps_version: v=VS.85
 f1_keywords:
@@ -9,7 +9,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
-description: "Learn Microsoft MPI Win Shared Query Function: Discover process-local addresses for remote memory segments with MPI_Win_allocate_shared. Boost efficiency now."
+description: Learn about the MPI_Win_shared_query function, its syntax, parameters, and return value. Understand how it queries process-local addresses for remote memory segments.
 ---
 
 # MPI\_Win\_shared\_query function

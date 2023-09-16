@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Testsome function
+---
+title: Understanding MPI_Testsome Function and Its Parameters
 TOCTitle: MPI_Testsome function
 ms:assetid: 0cc7936e-e68b-4693-98a8-53d52b05d4b2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473482(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Testsome function, its syntax, parameters, and return values. Learn about its requirements and related MPI Point to Point Functions.
 ---
 
 # MPI\_Testsome function

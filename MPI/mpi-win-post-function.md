@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Win_post function
+---
+title: Understanding MPI_Win_post Function in RMA Exposure Epoch
 TOCTitle: MPI_Win_post function
 ms:assetid: 7bc39c36-ca44-455b-9232-288036278612
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn520610(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Win_post function in RMA exposure epoch. Learn about its syntax, parameters, return values, and special conditions for optimization.
 ---
 
 # MPI\_Win\_post function
