@@ -1,5 +1,5 @@
 ---
-title: MPI_Group_translate_ranks function
+title: Understanding MPI_Group_translate_ranks Function
 TOCTitle: MPI_Group_translate_ranks function
 ms:assetid: 3c93c90e-2c99-4e37-8662-c7adea21f291
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473406(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Explore the MPI_Group_translate_ranks function, its syntax, parameters, return value, and requirements. Learn about process numbering in different groups.
 ---
 
 # MPI\_Group\_translate\_ranks function

@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Pack_size function
+---
+title: Understanding MPI_Pack_size Function in HPC Pack
 TOCTitle: MPI_Pack_size function
 ms:assetid: da4f6f13-89d5-47bb-9fc5-0d7b3fd1bd5b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473443(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Pack_size function, its syntax, parameters, and return value. Learn how it determines the space needed to pack a message in HPC Pack.
 ---
 
 # MPI\_Pack\_size function

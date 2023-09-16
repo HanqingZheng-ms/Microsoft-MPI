@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Iscatter function
+---
+title: Understanding MPI_Iscatter Function in Microsoft MPI v7
 TOCTitle: MPI_Iscatter function
 ms:assetid: 17138DD8-9BBF-45F2-A31B-252B90EBD0C8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt629169(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Learn about the MPI_Iscatter function in Microsoft MPI v7. This article provides a detailed explanation of its syntax, parameters, return value, and usage.
 ---
 
 # MPI\_Iscatter function

@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Reduce_scatter function
+---
+title: 'MPI_Reduce_scatter Function: Combining and Scattering Values'
 TOCTitle: MPI_Reduce_scatter function
 ms:assetid: f52cf815-485f-4cca-903f-a0179ff929ed
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473457(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about the MPI_Reduce_scatter function, its syntax, parameters, and return values. Understand how it combines values and scatters results in HPC Pack MS-MPI Redistributable Packages.
 ---
 
 # MPI\_Reduce\_scatter function
