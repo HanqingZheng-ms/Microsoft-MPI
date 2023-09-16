@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Exscan function
+---
+title: 'MPI_Exscan Function: Exclusive Scan on Process Collection'
 TOCTitle: MPI_Exscan function
 ms:assetid: 21ee8f78-d70e-4886-927d-f810f2f933e6
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473301(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Exscan function, its syntax, parameters, and return value. Understand how it computes exclusive scan on a process collection.
 ---
 
 # MPI\_Exscan function

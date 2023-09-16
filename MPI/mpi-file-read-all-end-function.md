@@ -1,5 +1,5 @@
-﻿---
-title: MPI_File_read_all_end function
+---
+title: MPI_File_read_all_end Function and Its Usage
 TOCTitle: MPI_File_read_all_end function
 ms:assetid: d22e2cca-88ad-45bb-b1bf-d0bb9576dea8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473343(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about the MPI_File_read_all_end function, its syntax, parameters, return value, and requirements. Complete guide for HPC Pack MS-MPI Redistributable Package users.
 ---
 
 # MPI\_File\_read\_all\_end function

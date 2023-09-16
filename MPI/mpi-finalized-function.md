@@ -1,5 +1,5 @@
 ---
-title: MPI_Finalized function
+title: Understanding MPI_Finalized Function in HPC Pack
 TOCTitle: MPI_Finalized function
 ms:assetid: d7fc4031-59e9-47a6-9e84-be306cbc5c8a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473373(v=VS.85)
@@ -13,7 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
-description: "Learn Microsoft MPI_Finalized Function: Discover syntax, parameters, and return values for Message Passing Interface. Maximize HPC efficiency."
+description: Learn about MPI_Finalized function, its syntax, parameters, return value, and requirements. Ideal for users of HPC Pack 2012 MS-MPI Redistributable Package.
 ---
 
 # MPI\_Finalized function

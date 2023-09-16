@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Get_accumulate function
+---
+title: MPI Get Accumulate Function Explained
 TOCTitle: MPI_Get_accumulate function
 mtps_version: v=VS.85
 f1_keywords:
@@ -9,6 +9,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Detailed guide on MPI_Get_accumulate function, its syntax, parameters, return value, and requirements. Learn how it performs atomic read-modify-write operations.
 ---
 
 # MPI\_Get\_accumulate function

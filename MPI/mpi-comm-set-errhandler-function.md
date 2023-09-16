@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Comm_set_errhandler function
+---
+title: 'MPI_Comm_set_errhandler Function: Error Handler for Communicator'
 TOCTitle: MPI_Comm_set_errhandler function
 ms:assetid: 6e529f19-8012-4dd6-aaa0-1846088bf051
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473281(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Comm_set_errhandler function, a tool to set the error handler for a communicator. Includes syntax, parameters, return value, and requirements.
 ---
 
 # MPI\_Comm\_set\_errhandler function

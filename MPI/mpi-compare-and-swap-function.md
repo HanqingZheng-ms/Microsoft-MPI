@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Compare_and_swap function
+---
+title: MPI Compare and Swap Function Guide
 TOCTitle: MPI_Compare_and_swap function
 mtps_version: v=VS.85
 f1_keywords:
@@ -9,6 +9,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Detailed guide on MPI_Compare_and_swap function, its syntax, parameters, return value, and requirements. Learn how to perform a remote atomic compare and swap operation.
 ---
 
 # MPI\_Compare\_and\_swap function

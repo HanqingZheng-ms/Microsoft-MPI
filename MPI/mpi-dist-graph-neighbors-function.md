@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Dist_graph_neighbors function
+---
+title: Understanding MPI_Dist_graph_neighbors Function in Microsoft MPI v6
 TOCTitle: MPI_Dist_graph_neighbors function
 ms:assetid: 2C012D74-85CD-407F-B0B9-3B16D3FE6E0C
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt147724(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Detailed guide on MPI_Dist_graph_neighbors function in Microsoft MPI v6. Learn about its syntax, parameters, return values, and related functions.
 ---
 
 # MPI\_Dist\_graph\_neighbors function
