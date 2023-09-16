@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Win_flush_all function
+---
+title: Understanding MPI_Win_flush_all Function in MS-MPI Redistributable
 TOCTitle: MPI_Win_flush_all function
 mtps_version: v=VS.85
 f1_keywords:
@@ -9,6 +9,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Detailed guide on MPI_Win_flush_all function in MS-MPI Redistributable Package. Learn about its syntax, parameters, return value, and usage in Fortran.
 ---
 
 # MPI\_Win\_flush\_all function

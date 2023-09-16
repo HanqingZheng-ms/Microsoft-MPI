@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Startall function
+---
+title: Understanding MPI_Startall Function and Its Usage
 TOCTitle: MPI_Startall function
 ms:assetid: ffd68b75-c72e-4d48-aad8-103154f6bddc
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473474(v=VS.85)
@@ -16,6 +16,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Startall function, its syntax, parameters, and return values. Learn about its behavior, error reporting, and the products it's compatible with.
 ---
 
 # MPI\_Startall function

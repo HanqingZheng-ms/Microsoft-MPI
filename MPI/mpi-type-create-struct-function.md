@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Type_create_struct function
+---
+title: Understanding MPI_Type_create_struct Function
 TOCTitle: MPI_Type_create_struct function
 ms:assetid: a6c7a1fd-66e2-4dc0-a306-966b6c04cc86
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn520560(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Learn about the MPI_Type_create_struct function, its syntax, parameters, and return value. This function defines a new data type with specified data type, displacement, and size for each block of data.
 ---
 
 # MPI\_Type\_create\_struct function

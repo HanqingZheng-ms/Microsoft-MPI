@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Waitsome function
+---
+title: Understanding MPI_Waitsome Function in HPC Pack
 TOCTitle: MPI_Waitsome function
 ms:assetid: aa5b1b9f-7e49-4074-adb2-3e06b889baea
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn520592(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Detailed guide on MPI_Waitsome function, its syntax, parameters, return value, and usage in HPC Pack 2012 MS-MPI Redistributable Package. Learn more about MPI Point to Point Functions.
 ---
 
 # MPI\_Waitsome function

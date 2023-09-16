@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Unpack function
+---
+title: Understanding MPI_Unpack Function and Its Parameters
 TOCTitle: MPI_Unpack function
 ms:assetid: 8575ee33-58a8-45dd-84c7-968f3ffe3fa5
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn520585(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Unpack function, its syntax, parameters, and return values. Learn how it unpacks a buffer into contiguous memory in HPC Pack MS-MPI Redistributable Package.
 ---
 
 # MPI\_Unpack function
