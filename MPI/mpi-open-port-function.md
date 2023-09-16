@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Open_port function
+---
+title: 'MPI Open Port Function: Establish Connections Between MPI Processes'
 TOCTitle: MPI_Open_port function
 ms:assetid: 1421cd0c-9be4-459c-bba3-d874ed1c7249
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473437(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn how to use the MPI_Open_port function to establish connections between MPI processes. Understand parameters, return values, and requirements for successful implementation.
 ---
 
 # MPI\_Open\_port function

@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Rget function
+---
+title: Understanding MPI_Rget Function in MS-MPI Redistributable Package
 TOCTitle: MPI_Rget function
 mtps_version: v=VS.85
 f1_keywords:
@@ -9,6 +9,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_Rget function, its syntax, parameters, and return value. Learn how it operates in the HPC Pack MS-MPI Redistributable Package for efficient communication.
 ---
 
 # MPI\_Rget function

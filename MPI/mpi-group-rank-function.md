@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Group_rank function
+---
+title: MPI Group Rank Function and Process in Group
 TOCTitle: MPI_Group_rank function
 ms:assetid: 34650411-2dd1-447c-bca0-6122f43234cb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473404(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Learn about the MPI_Group_rank function, its syntax, parameters, and return value. Understand the rank of the calling process in a specified group.
 ---
 
 # MPI\_Group\_rank function

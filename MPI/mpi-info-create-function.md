@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Info_create function
+---
+title: 'MPI_Info_create Function: Creating New Info Objects'
 TOCTitle: MPI_Info_create function
 ms:assetid: 95df767e-93a9-4d7c-9d3b-8ed80d5a1b48
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473409(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about the MPI_Info_create function, its syntax, parameters, and return values. Understand how it creates new info objects in HPC Pack MS-MPI Redistributable Packages.
 ---
 
 # MPI\_Info\_create function
