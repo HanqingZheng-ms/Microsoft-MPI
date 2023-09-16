@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Cart_sub function
+---
+title: 'MPI_Cart_sub Function: Lower-Dimensional Cartesian Subgrids'
 TOCTitle: MPI_Cart_sub function
 ms:assetid: 6905d404-820f-440c-b3e3-aad9eed108bb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473251(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about MPI_Cart_sub function that partitions a communicator into subgroups forming lower-dimensional cartesian subgrids. Includes syntax, parameters, and return values.
 ---
 
 # MPI\_Cart\_sub function

@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Comm_remote_group function
+---
+title: MPI_Comm_remote_group Function and Intercommunicator Access
 TOCTitle: MPI_Comm_remote_group function
 ms:assetid: 25455c7f-a873-4407-838b-9f32b1ecd70a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473278(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Learn about the MPI_Comm_remote_group function, its syntax, parameters, and return values. Understand how it accesses the remote group associated with an intercommunicator.
 ---
 
 # MPI\_Comm\_remote\_group function
