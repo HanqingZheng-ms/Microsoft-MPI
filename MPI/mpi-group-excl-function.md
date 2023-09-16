@@ -1,5 +1,5 @@
-﻿---
-title: MPI_Group_excl function
+---
+title: 'MPI_Group_excl Function: Group Constructor for Process Management'
 TOCTitle: MPI_Group_excl function
 ms:assetid: d5b17422-4ff1-4c64-ba0e-72d8365f066b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473397(v=VS.85)
@@ -26,6 +26,7 @@ topic_type:
 - kbSyntax
 product_family_name: VS
 ROBOTS: INDEX,FOLLOW
+description: Learn about MPI_Group_excl, a group constructor used to define new groups by deleting ranks from an existing group. Understand syntax, parameters, return values, and more.
 ---
 
 # MPI\_Group\_excl function

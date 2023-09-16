@@ -1,5 +1,5 @@
-﻿---
-title: MPI_File_read function
+---
+title: Understanding MPI_File_read Function and Its Parameters
 TOCTitle: MPI_File_read function
 ms:assetid: 442a3d4f-5344-4ef1-bdec-b6a08f866c19
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn473340(v=VS.85)
@@ -13,6 +13,7 @@ f1_keywords:
 dev_langs:
 - C++
 - C
+description: Explore the MPI_File_read function, its syntax, parameters, and return values. Learn about its usage in HPC Pack MS-MPI Redistributable Packages.
 ---
 
 # MPI\_File\_read function
